@@ -39,8 +39,6 @@ Web Status : http://host.docker.internal:5107/
 Web MVC :  http://host.docker.internal:5100/
 Web SPA :  http://host.docker.internal:5104/
 ```
-<img width="1255" alt="1" src="https://github.com/Savastyl/eShopOnDocker-Compose/assets/113951999/76a26e6e-020d-4960-be6a-ec33adab6d05">
->Note: If you are running this application in macOS then use `docker.for.mac.localhost` as DNS name in `.env` file and the above URLs instead of `host.docker.internal`.
 
 Below are the other avenues to setup *eShopOnContainers*.
 
