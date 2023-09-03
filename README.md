@@ -36,6 +36,7 @@ You should be able to browse different components of the application by using th
 
 ```
 Web Status : http://host.docker.internal:5107/
+https://github.com/Savastyl/eShopOnDocker-Compose/blob/master/Media/1.png
 Web MVC :  http://host.docker.internal:5100/
 Web SPA :  http://host.docker.internal:5104/
 ```
